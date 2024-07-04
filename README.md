@@ -9,11 +9,10 @@ See [here]() for a wishlist and [here]() for a "curated list".
 
 ## Contents
 
-- [Contribute](#Contribute)
-- [Tools](#Tools)
-- [Organizations](#Organizations)
-- [Informations and Statistics](#Informations and Statistics)
-- [Standards and Specifications](#Standards and Specifications)
+- [Contribute](#contribute)
+- [Tools](#tools)
+- [Organizations](#organizations)
+- [Reads](#reads)
 
 ## Contribute
 
@@ -34,12 +33,9 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Audinate](https://audinate.com) - Its proprietary Dante technology is the most popular AoIP solution by far.
 - [Ravenna](https://www.ravenna-network.com/) - Second most popular AoIP solution, which is more open than Dante.
 
-##  Information and Statistics
+## Reads
 
 - [Networked Audio Products](https://rhconsulting.uk/blog/networked-audio-products-2024/) - A census of AoIP products, conducted every year.
-
-## Standards and Specifications
-
 - [AES67](https://www.aes.org/publications/standards/search.cfm?docID=96), public [draft](https://aes2.org/standards-blog/call-for-comment-on-draft-revised-aes67-xxxx-high-performance-streaming-audio-over-ip-interoperability/) - The open standard to den Audio over IP.
 - [NMOS](https://github.com/AMWA-TV/nmos) - REST APIs for controlling network media devices.
 - [smpte-30]()
