@@ -2,7 +2,7 @@
 
 > A curated list of awesome [Audio over IP](https://www.avid.com/resource-center/audio-over-ip-avb-and-dante-what-todays-music-producer-should-know) tools and resources.
 
-In the professional audio sector, Audio over IP (AoIP) is about transmitting uncompressed, low-latency audio over an IP (layer 3) network. Popular examples of protocols are [Dante](https://audinate.com), [AES67](https://en.wikipedia.org/wiki/AES67) and [Ravenna](https://www.ravenna-network.com/).
+In the professional audio sector, Audio over IP (AoIP) is about transmitting uncompressed, low-latency audio over an IP (layer 3) network. Popular examples of protocols are [Dante](https://en.wikipedia.org/wiki/Dante_(networking)), [AES67](https://en.wikipedia.org/wiki/AES67) and [Ravenna](https://en.wikipedia.org/wiki/Ravenna_(networking)).
 
 This is list is WIP. The AoIP ecosystem is still growing and there is rather sparse tooling available at the moment. Right now this list (and maybe the topic), does not match the requirements to be an official awesome list.
 See [here](https://gist.github.com/njh/c9196c465ea33ae9f97db782870464ef) for a wishlist and [here](https://aes67.app/resources) for a "curated web page".
