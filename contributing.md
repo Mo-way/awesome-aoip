@@ -8,9 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- For now collect anything that's useful and actively maintained
+- Follow the style guide of awesome lists to keep things organised
+- Sort entries into the archive (awesume-but-inactive), when needed
 
 Thank you for your suggestions!
 
