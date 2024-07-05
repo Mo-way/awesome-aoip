@@ -4,8 +4,7 @@
 
 In the professional audio sector, Audio over IP (AoIP) is about transmitting uncompressed, low-latency audio over an IP (layer 3) network. Popular examples of protocols are [Dante](https://en.wikipedia.org/wiki/Dante_(networking)), [AES67](https://en.wikipedia.org/wiki/AES67) and [Ravenna](https://en.wikipedia.org/wiki/Ravenna_(networking)).
 
-This is list is WIP. The AoIP ecosystem is still growing and there is rather sparse tooling available at the moment. Right now this list (and maybe the topic), does not match the requirements to be an official awesome list.
-See [here](https://gist.github.com/njh/c9196c465ea33ae9f97db782870464ef) for a wishlist and [here](https://aes67.app/resources) for a "curated web page".
+This is list is WIP. The AoIP ecosystem is still growing and there is rather sparse tooling available at the moment. Right now this list (and maybe the topic), does not match the requirements to be an official awesome list. Also, have a look at the other lists, if looking for inspiration.
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
@@ -13,10 +12,16 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Contents
 
+- [Other Lists](#other-lists)
 - [Tools](#tools)
 - [Organizations](#organizations)
-- [Reads](#reads)
+- [Standards](#standards)
 
+## Other Lists
+
+- [AES67 Wishlist](https://gist.github.com/njh/c9196c465ea33ae9f97db782870464ef) - Popular wishlist for AES67 software, which inspired this list.
+- [Curated Web Page](https://aes67.app/resources) - Read-only "curated list of AES67 resources" by Philipp Hartung.
+- [Networked Audio Products](https://rhconsulting.uk/blog/networked-audio-products-2024/) - A census of AoIP products, conducted every year.
 
 ## Tools
 
@@ -32,9 +37,9 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Audinate](https://audinate.com) - Its proprietary Dante technology is the most popular AoIP solution by far.
 - [Ravenna](https://www.ravenna-network.com/) - Second most popular AoIP solution, which is more open than Dante.
 
-## Reads
+## Standards
 
-- [Networked Audio Products](https://rhconsulting.uk/blog/networked-audio-products-2024/) - A census of AoIP products, conducted every year.
 - [AES67](https://www.aes.org/publications/standards/search.cfm?docID=96), public [draft](https://aes2.org/standards-blog/call-for-comment-on-draft-revised-aes67-xxxx-high-performance-streaming-audio-over-ip-interoperability/) - The open standard to den Audio over IP.
 - [NMOS](https://github.com/AMWA-TV/nmos) - REST APIs for controlling network media devices.
-- [SMPTE ST 2110-30](https://en.wikipedia.org/wiki/SMPTE_2110) - AES67 based audio transport in a video stream.
+- [SMPTE ST 2110-30](https://en.wikipedia.org/wiki/SMPTE_2110) - AES67 based audio transport in a video stream (TODO: Find better source).
+
