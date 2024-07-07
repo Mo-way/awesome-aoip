@@ -4,7 +4,7 @@
 
 In the professional audio sector, Audio over IP (AoIP) is about transmitting uncompressed, low-latency audio over an IP (layer 3) network. Popular examples of protocols are [Dante](https://en.wikipedia.org/wiki/Dante_(networking)), [AES67](https://en.wikipedia.org/wiki/AES67) and [Ravenna](https://en.wikipedia.org/wiki/Ravenna_(networking)).
 
-This is list is WIP. The AoIP ecosystem is still growing and there is rather sparse tooling available at the moment. Right now this list (and maybe the topic), does not match the requirements to be an official awesome list. Also, have a look at the other lists, if looking for inspiration.
+This list is WIP. The AoIP ecosystem is still growing and there is rather sparse tooling available at the moment. Right now this list (and maybe the topic), does not match the requirements to be an official awesome list. Also, have a look at the other lists, if looking for inspiration.
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
