@@ -17,6 +17,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Organizations](#organizations)
 - [Standards](#standards)
 - [Education](#education)
+- [Unverified](#unverified)
 
 ## Other Lists
 
@@ -32,6 +33,10 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [AES67 Linux Daemon](https://github.com/bondagit/aes67-linux-daemon) - Fork of Merging's driver with an open source web server.
 - [AES67 Monitor](https://github.com/philhartung/aes67-monitor) - Cross plattform AES67 monitoring app.
 
+### Closed Source
+
+- [Aneman](https://www.merging.com/aneman/) - **A**udio **NE**twork **MAN**ager, the Ravenna equivalent for Dante controller.
+
 ## Organizations
 
 - [IPMX](https://ipmx.io/about/) - A proposed set of open standards and specifications for control, copy protection, connection management and security.
@@ -46,5 +51,13 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Education
 
-- [Dante Certificaiton](https://www.getdante.com/resources/training/dante-certification-program/) - High level intro to Dante that helps understand AoIP in general. The training requires an account.
+- [Dante Certification](https://www.getdante.com/resources/training/dante-certification-program/) - Understanding Dante helps understanding AoIP. The training requires an account. I recommend lv 1 and lv 2.
 - [Ravenna Ressources](https://www.ravenna-network.com/resources/) - Webinars and slides by Andreas Hildebrand about Ravenna, AES67, SMPTE 2110, PTP and IPMX.
+- [Connecting Dante with AES67](https://download.yamaha.com/files/tcm:39-868466/) - Setting up AES67 from a Dante device isn't very straight forward, here's a guide from Yamaha as an example.
+
+
+## Unverified
+
+- List of things that sound good, but I was unable to try out or assess. Will vanish if this list will ever mature.
+- [PAM](https://github.com/martim01/pam) - Open source, AES67 capable audio monitor.
+
