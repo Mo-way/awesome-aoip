@@ -4,9 +4,9 @@
 
 In the professional audio sector, Audio over IP (AoIP) is about transmitting uncompressed, low-latency audio over an IP (layer 3) network. Popular examples of protocols are [Dante](https://en.wikipedia.org/wiki/Dante_(networking)), [AES67](https://en.wikipedia.org/wiki/AES67) and [Ravenna](https://en.wikipedia.org/wiki/Ravenna_(networking)).
 
-This list is WIP. The AoIP ecosystem is still growing and there is rather sparse tooling available at the moment. Right now this list (and maybe the topic), does not match the requirements to be an official awesome list. Also, have a look at the other lists, if looking for inspiration.
+This list is WIP. The AoIP ecosystem is still growing and there is rather sparse tooling available at the moment. Right now this list (and maybe the whole topic) does not match the requirements to be an official awesome list. Also have a look at the other lists, if looking for inspiration.
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](contributing.md) first (TL;DR: Has to be actively maintained and awesome).
 
 ---
 
@@ -16,6 +16,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Tools](#tools)
 - [Organizations](#organizations)
 - [Standards](#standards)
+- [Education](#education)
 
 ## Other Lists
 
@@ -43,3 +44,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [NMOS](https://github.com/AMWA-TV/nmos) - REST APIs for controlling network media devices.
 - [SMPTE ST 2110-30](https://en.wikipedia.org/wiki/SMPTE_2110) - AES67 based audio transport in a video stream (TODO: Find better source).
 
+## Education
+
+- [Dante Certificaiton](https://www.getdante.com/resources/training/dante-certification-program/) - High level intro to Dante that helps understand AoIP in general. The training requires an account.
+- [Ravenna Ressources](https://www.ravenna-network.com/resources/) - Webinars and slides by Andreas Hildebrand about Ravenna, AES67, SMPTE 2110, PTP and IPMX.
