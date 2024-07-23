@@ -32,6 +32,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Merging ALSA RAVENNA/AES67 Driver](https://bitbucket.org/MergingTechnologies/ravenna-alsa-lkm/src/master/) - Open source driver that doesn't accept contributions.
 - [AES67 Linux Daemon](https://github.com/bondagit/aes67-linux-daemon) - Fork of Merging's driver with an open source web server.
 - [AES67 Monitor](https://github.com/philhartung/aes67-monitor) - Cross plattform AES67 monitoring app.
+- [JackTrip](https://jacktrip.github.io/jacktrip/) - An open source tool for transmitting real-time audio over LAN and WAN.
 
 ### Closed Source
 
