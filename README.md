@@ -48,6 +48,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [AES67](https://www.aes.org/publications/standards/search.cfm?docID=96), public [draft](https://aes2.org/standards-blog/call-for-comment-on-draft-revised-aes67-xxxx-high-performance-streaming-audio-over-ip-interoperability/) - The open standard to den Audio over IP.
 - [NMOS](https://github.com/AMWA-TV/nmos) - REST APIs for controlling network media devices.
 - [SMPTE ST 2110-30](https://en.wikipedia.org/wiki/SMPTE_2110) - AES67 based audio transport in a video stream (TODO: Find better source).
+- [JackTrip](https://jacktrip.github.io/jacktrip/) - An open source standard for transmitting audio over LAN and WAN.
 
 ## Education
 
