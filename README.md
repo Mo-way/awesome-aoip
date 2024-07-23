@@ -32,6 +32,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Merging ALSA RAVENNA/AES67 Driver](https://bitbucket.org/MergingTechnologies/ravenna-alsa-lkm/src/master/) - Open source driver that doesn't accept contributions.
 - [AES67 Linux Daemon](https://github.com/bondagit/aes67-linux-daemon) - Fork of Merging's driver with an open source web server.
 - [AES67 Monitor](https://github.com/philhartung/aes67-monitor) - Cross plattform AES67 monitoring app.
+- [JackTrip](https://jacktrip.github.io/jacktrip/) - An open source tool for transmitting real-time audio over LAN and WAN.
 
 ### Closed Source
 
@@ -48,7 +49,6 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [AES67](https://www.aes.org/publications/standards/search.cfm?docID=96), public [draft](https://aes2.org/standards-blog/call-for-comment-on-draft-revised-aes67-xxxx-high-performance-streaming-audio-over-ip-interoperability/) - The open standard to den Audio over IP.
 - [NMOS](https://github.com/AMWA-TV/nmos) - REST APIs for controlling network media devices.
 - [SMPTE ST 2110-30](https://en.wikipedia.org/wiki/SMPTE_2110) - AES67 based audio transport in a video stream (TODO: Find better source).
-- [JackTrip](https://jacktrip.github.io/jacktrip/) - An open source standard for transmitting audio over LAN and WAN.
 
 ## Education
 
