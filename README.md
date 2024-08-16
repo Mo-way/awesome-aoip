@@ -37,6 +37,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ### Closed Source
 
 - [Aneman](https://www.merging.com/aneman/) - **A**udio **NE**twork **MAN**ager, the Ravenna equivalent for Dante controller.
+- [PTP Track Hound](https://www.ptptrackhound.com/) - PTP network traffic analysis tool (cross-platoform, basic free version available).
 
 ## Organizations
 
@@ -46,9 +47,9 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Standards
 
-- [AES67](https://www.aes.org/publications/standards/search.cfm?docID=96), public [draft](https://aes2.org/standards-blog/call-for-comment-on-draft-revised-aes67-xxxx-high-performance-streaming-audio-over-ip-interoperability/) - The open standard to den Audio over IP.
+- [AES67](https://www.aes.org/publications/standards/search.cfm?docID=96), public [draft](https://aes2.org/standards-blog/call-for-comment-on-draft-revised-aes67-xxxx-high-performance-streaming-audio-over-ip-interoperability/) - The open standard for Audio over IP.
 - [NMOS](https://github.com/AMWA-TV/nmos) - REST APIs for controlling network media devices.
-- [SMPTE ST 2110-30](https://en.wikipedia.org/wiki/SMPTE_2110) - AES67 based audio transport in a video stream (TODO: Find better source).
+- [SMPTE ST 2110-30](https://www.smpte.org/standards/st2110), public [version](https://pub.smpte.org/latest/st2110-30/st2110-30-2017.pdf) - AES67 based audio transport in a video stream. Adds some contrains to AES67.
 
 ## Education
 
