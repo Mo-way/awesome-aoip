@@ -1,6 +1,6 @@
 # Awesome Audio Over IP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome [Audio over IP](https://www.avid.com/resource-center/audio-over-ip-avb-and-dante-what-todays-music-producer-should-know) tools and resources.
+> A curated list of awesome [Audio over IP](https://www.avid.com/resource-center/audio-over-ip-avb-and-dante-what-todays-music-producer-should-know) and AES67 tools and resources.
 
 In the professional audio sector, Audio over IP (AoIP) is about transmitting uncompressed, low-latency audio over an IP (layer 3) network. Popular examples of protocols are [Dante](https://en.wikipedia.org/wiki/Dante_(networking)), [AES67](https://en.wikipedia.org/wiki/AES67) and [Ravenna](https://en.wikipedia.org/wiki/Ravenna_(networking)).
 
@@ -61,5 +61,6 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ## Unverified
 
 - List of things that sound good, but I was unable to try out or assess. Will vanish if this list will ever mature.
-- [PAM](https://github.com/martim01/pam) - Open source, AES67 capable audio monitor.
+- [PAM](https://github.com/martim01/pam) - FOSS AES67 capable audio monitor.
+- [Snapcast](https://github.com/badaix/snapcast/tree/develop) - FOSS project for a Sonos-like multiroom solution, using a custom TCP-based protocol.
 
