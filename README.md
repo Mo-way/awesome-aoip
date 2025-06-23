@@ -23,7 +23,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 - [AES67 Wishlist](https://gist.github.com/njh/c9196c465ea33ae9f97db782870464ef) - Popular wishlist for AES67 software, which inspired this list.
 - [Curated Web Page](https://aes67.app/resources) - Read-only "curated list of AES67 resources" by Philipp Hartung.
-- [Networked Audio Products](https://rhconsulting.uk/blog/) - A census of AoIP products, conducted every year (current: [2024](https://rhconsulting.uk/blog/networked-audio-products-2024/)).
+- [Networked Audio Products](https://rhconsulting.uk/blog/) - A census of AoIP products, conducted every year (current: [2025](https://rhconsulting.uk/blog/networked-audio-products-2025/)).
 - [Awesome Audiovisual](https://github.com/stingalleman/awesome-audiovisual) - AV list containing a little AoIP.
 - [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) - EBU list contianing a little AoIP.
 
