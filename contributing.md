@@ -1,16 +1,20 @@
 # Contribution Guidelines
 
+> TL;DR: Entry has to be actively maintained and awesome. Follow the existing style.
+
 Please note that this project is released with a
 [Contributor Code of Conduct](code-of-conduct.md). By participating in this
 project you agree to abide by its terms.
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
+Open an issue to start a discussion.
 
-- For now collect anything that's useful and actively maintained
-- Follow the style guide of awesome lists to keep things organised
-- Sort entries into the archive (awesume-but-inactive), when needed
+Ensure a pull request adheres to the following guidelines:
+
+- Collect anything that's useful and actively maintained
+- Follow the style guide of awesome lists to keep things organized
+- Sort entries into the archive (awesome-but-inactive.md), when needed
 
 Thank you for your suggestions!
 
