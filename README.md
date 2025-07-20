@@ -18,6 +18,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Organizations](#organizations)
 - [Education](#education)
 - [Standards](#standards)
+- [Footnotes](#footnotes)
 
 ## Tools
 
