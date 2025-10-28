@@ -1,6 +1,6 @@
 # Awesome Audio Over IP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="./resources/aes67-logo.svg" alt="AES67 Logo" align="centre">](https://wikipedia.org/wiki/AES67)
+[<img src="./resources/aes67-logo.png" alt="AES67 Logo" align="centre">](https://wikipedia.org/wiki/AES67)
 
 > A curated list of awesome [Audio over IP](https://www.avid.com/resource-center/audio-over-ip-avb-and-dante-what-todays-music-producer-should-know) and AES67 tools and resources.
 
