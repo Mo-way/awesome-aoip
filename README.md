@@ -18,6 +18,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Organizations](#organizations)
 - [Education](#education)
 - [Standards](#standards)
+- [Security](#security)
 
 ## Tools
 
@@ -57,6 +58,15 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [AES67](https://www.aes.org/publications/standards/search.cfm?docID=96), public [draft](https://aes2.org/standards-blog/call-for-comment-on-draft-revised-aes67-xxxx-high-performance-streaming-audio-over-ip-interoperability/) - The open standard for Audio over IP.
 - [NMOS](https://github.com/AMWA-TV/nmos) - REST APIs for controlling network media devices.
 - [SMPTE ST 2110-30](https://www.smpte.org/standards/st2110), public [version](https://pub.smpte.org/latest/st2110-30/st2110-30-2017.pdf) - AES67 based audio transport in a video stream. Adds some contains to AES67.
+
+## Security
+
+AES67 itself is unencrypted. Dante offers media encryption. Collect information relevant to IT security of AoIP here
+
+- [IPMX PEP Draft](https://web.archive.org/web/20250402090003/https://static.vsf.tv/download/technical_recommendations/VSF_TR-10-13_2024-01-19.pdf) - The VSF used to host a draft on IPMX encryption.
+- [Dante Encryption](https://www.getdante.com/products/network-management/dante-media-encryption/) - Dante encrypts media streams, but requires a cloud connection for encrypted control traffic.
+- [Vulnerability assessment of the Dante Protocol](https://ritcsec.wordpress.com/2020/04/28/reverse-engineering-and-vulnerability-assessment-of-the-dante-protocol/) - This article looks at the low-level implementation of Dante protocol.
+- [Secuirty analysis of PTP paper](https://web.archive.org/web/20250823221404/http://lersse-dl.ece.ubc.ca/record/123/files/123.pdf) - A paper from 2025 explaining attack theoretical vectors on PTP.
 
 ## Footnotes
 
