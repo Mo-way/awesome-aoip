@@ -63,10 +63,10 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 AES67 itself is unencrypted. Dante offers media encryption. Collect information relevant to IT security of AoIP here
 
-- [IPMX PEP Draft](https://web.archive.org/web/20250402090003/https://static.vsf.tv/download/technical_recommendations/VSF_TR-10-13_2024-01-19.pdf) - The VSF used to host a draft on IPMX encryption.
+- [IPMX PEP Draft](https://web.archive.org/web/20250402090003/https://static.vsf.tv/download/technical_recommendations/VSF_TR-10-13_2024-01-19.pdf) - The VSF used to host a draft on IPMX encryption (linked the archived copy).
 - [Dante Encryption](https://www.getdante.com/products/network-management/dante-media-encryption/) - Dante encrypts media streams, but requires a cloud connection for encrypted control traffic.
 - [Vulnerability assessment of the Dante Protocol](https://ritcsec.wordpress.com/2020/04/28/reverse-engineering-and-vulnerability-assessment-of-the-dante-protocol/) - This article looks at the low-level implementation of Dante protocol.
-- [Secuirty analysis of PTP paper](https://web.archive.org/web/20250823221404/http://lersse-dl.ece.ubc.ca/record/123/files/123.pdf) - A paper from 2025 explaining attack theoretical vectors on PTP.
+- [Secuirty analysis of PTP paper](https://web.archive.org/web/20250823221404/http://lersse-dl.ece.ubc.ca/record/123/files/123.pdf) - A paper from 2025 explaining which attack vectors on PTP exist in theory.
 
 ## Footnotes
 
